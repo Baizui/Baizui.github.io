@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "wangyeshejiyuzhizuo"
+title:  "网页设计"
 categories: SDG portfolio visualization
 ---
 ## 概要
