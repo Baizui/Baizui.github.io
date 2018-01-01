@@ -1,14 +1,9 @@
 # Site navigation links
 
 - title: 学习
-  url: /learning/
+  url: /teaching/
   excerpt: "学习设计与制作网页"
   image: learning_teaching.gif
-
-- title: i18nl10n
-  url: /i18nl10n/
-  excerpt: "含＂一带一路＂倡议"
-  image: time.jpg
 
 - title: 网页设计与制作
   url: /网页设计与制作/
@@ -18,4 +13,4 @@
 - title: Contact 联络我
   url: /contact/
   excerpt: "联络我"
-  image: 王志伟.jpg
+  image: yangguang.jpg
