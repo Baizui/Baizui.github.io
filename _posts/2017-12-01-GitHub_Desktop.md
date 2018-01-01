@@ -1,28 +1,24 @@
 ---
 layout: article
-title:  "可裝GitHub Desktop"
-date:   2017-12-01 22:07:50 +0800
+title:  "笔记"
+date:   2018-1-01 22:07:50 +0800
 categories: notes_tech Jekyll
 image:
-  teaser: github-desktop-icon.svg
-  feature: github-desktop-icon.svg
+  teaser: biji.jpg
+  feature: biji.jpg
 ---
-欲用 `GitHub` 空間，可先自裝 [GitHub Desktop][GitHub_Desktop] 這開發環境工具。
+何为平面设计 `Graphic Design` 呢？它是[Graphic Design][Graphic Design] 指制作（设计）时的过程，以及最后完成的作品。
 
-## 怎样裝 GitHub Desktop？
+## 平面设计的基本要素是什么？
 
-現在2017年年底的情境下，在中國的網絡環境裝 `GitHub Desktop`，有時會考驗著所在地區的網路速度和安裝人的人品。
+- 色彩：好的平面设计作品在画面色彩的运用上注意调和、对比、平衡、节奏与韵律。
+- 创意：是平面设计的第一要素，没有好的创意，就没有好的作品，创意中要考虑观众、传播媒体、文化背景三个条件。
+- 构图：构图就是要解决图形、色彩和文字三者之间的空间关系，做到新颖，合理和统一。 
 
-- 註冊一個免費去[Github 官网][Github官网] 注册( `Sign Up` )一个账号，账号名請選你打算行走世界的名號，先佔先有
-- 去 [GitHub Desktop][GitHub_Desktop] 頁面下載客戶端 
+平面设计涉及图像制作、编辑修改、排版及分色输出等等诸多领域。例如AI、PS等。
 
-若從官網下載不了，可搜索較新的離線安裝版本，或找朋友們試試。
-
-## 怎样使用 GitHub？
-
-在知乎上有[一个文科妹子分享了其半年摸索才明白的經驗][文科妹子用GitHub]，可以參考。
+## 所以说学好平面设计`Graphic Design`对自己的帮助是非常大的。
 
 
-[GitHub_Desktop]: https://desktop.github.com/
-[Github官网]: https://github.com/
-[文科妹子用GitHub]: https://www.zhihu.com/question/20070065 
+
+[Graphic Design]: https://en.wikipedia.org/wiki/Graphic_design/ 
