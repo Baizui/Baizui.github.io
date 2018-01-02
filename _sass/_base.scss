@@ -1,4 +1,4 @@
- a/* ==========================================================================
+vv a/* ==========================================================================
    Base
    ========================================================================== */
 
@@ -7,10 +7,9 @@
    ========================================================================== */
 
 body {
-	font-family: $base-font;
-	color: $text-color;
-    background-image:
-      url('../images/beijingtu.jpg');
+    font-family: $base-font;
+    color: $text-color;
+    background-image:url(https://Baizui.github.ioimages/beijingtu.jpg);
     background-position: center center;  
     background-repeat: no-repeat;  
     background-attachment: fixed;  
