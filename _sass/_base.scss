@@ -1,4 +1,4 @@
-a/* ==========================================================================
+ a/* ==========================================================================
    Base
    ========================================================================== */
 
@@ -14,9 +14,9 @@ body {
     background-position: center center;  
     background-repeat: no-repeat;  
     background-attachment: fixed;  
-    background-size:cover; 
+    background-size: cover; 
     background-color: rgba(147,206,222,1);
-	@include font-size(16);
+    @include font-size(16);
 }
 
 p {
