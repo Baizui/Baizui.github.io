@@ -9,12 +9,12 @@ vv a/* =========================================================================
 body {
     font-family: $base-font;
     color: $text-color;
-    background-image:url(https://Baizui.github.ioimages/beijingtu.jpg);
-    background-position: center center;  
-    background-repeat: no-repeat;  
-    background-attachment: fixed;  
-    background-size: cover; 
-    background-color: rgba(147,206,222,1);
+    background-image: url(https://Kannroy.github.io/images/BACK2.jpg);			
+    background-position: center center;		
+    background-repeat: no-repeat;		
+    background-attachment: fixed;		
+    background-size:cover;
+    background-color: #2f4f4f;
     @include font-size(16);
 }
 
