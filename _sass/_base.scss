@@ -9,13 +9,12 @@
 body {
 	font-family: $base-font;
 	color: $text-color;
-    background-image:
-      url('../images/beijingtu.jpg');
+    background-image:url(https://Baizui.github.io/images/beijingtu.jpg);
 	background-position: center center;  
     background-repeat: no-repeat;  
     background-attachment: fixed;  
     background-size:cover; 
-    background-color: rgb(147,206,222,1);
+    background-color: rgba(147,206,222,1);
 	@include font-size(16);
 }
 
