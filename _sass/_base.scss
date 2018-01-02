@@ -10,8 +10,12 @@ body {
 	font-family: $base-font;
 	color: $text-color;
     background-image:
-      linear-gradient(rgba(255, 255, 240, 0.9), rgba(255, 255, 240, 0.7)), 
-      url('../images/oslRB.png');
+      url('../images/beijingtu.jpg');
+	  background-position: center center;  
+      background-repeat: no-repeat;  
+      background-attachment: fixed;  
+      background-size:cover; 
+      background-color: rgb(147,206,222,1);
 	@include font-size(16);
 }
 
