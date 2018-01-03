@@ -5,7 +5,7 @@ date: 公元2018年
 modified:
 excerpt: ""
 tags: []
-image: 
+image: (https://Baizui.github.io/images/touxiang.jpg)
 ---
 
 姓名：王志伟
