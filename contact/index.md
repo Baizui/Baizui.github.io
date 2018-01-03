@@ -11,7 +11,7 @@ image: (https://Baizui.github.io/images/touxiang.jpg)
 姓名：王志伟
 
 
-院系:文学与传媒学院16级网络与新媒体系
+院系:文学与传媒学院16级网络与新媒体专业
 
 
 专业：网络与新媒体
