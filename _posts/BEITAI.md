@@ -1,0 +1,48 @@
+---
+layout: article
+title:  "响应式弹性布局"
+date:   2018-1-1 22:07:50 +0800
+categories: notes_tech Fluid Layout 
+image:
+  teaser: xiangyingshi.jpg
+  feature: xiangyingshi.jpg
+---
+##RWD运用三种已有技术
+
+image:
+  teaser: xiangying.png
+  feature: xiangying.png
+  
+分别是弹性网格布局、弹性图片/媒体、媒体查询
+
+
+## 如何采用ＲＷＤ实现最基础的布局？。
+
+以此构建的网站可自动适应不同的访问设备，方便用户阅读和导航浏览，减少用户的放大/缩小/滑动操作  (2018年1月1日)：
+
+## RWD: Responsive Web Design
+
+- 流式布局和比例测量
+- 比例图像和媒体
+- 媒体查询
+
+image:
+  teaser: liushi.png
+  feature: liushi.png
+
+图片大小也是采用相对单位而灵活缩放，不至于在小屏幕的移动设备上超出显示区域。
+
+## 比例的简单公式
+
+- 结果 = 目标/上下文即target ÷ context = result
+
+image:
+  teaser: max.png
+  feature: max.png
+
+基于RWD而设计的网站利用CSS3 media queries规则来自动适应不同访问设备的屏幕尺寸和显示要求。而流动网格采用页面元素大小的相对单位(百分比或em)。
+
+## 学好网页设计与制作，走遍天下都不怕。
+
+
+
