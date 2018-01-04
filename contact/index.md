@@ -7,7 +7,7 @@ excerpt: ""
 tags: []
 image: (https://Baizui.github.io/images/touxiang.jpg)
 ---
-
+![image](https://Baizui.github.io/images/touxiang.jpg)
 姓名：王志伟
 
 
