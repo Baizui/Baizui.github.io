@@ -7,7 +7,7 @@ excerpt: ""
 tags: []
 ---
 Web 分类（categories）
-{% for post in site.categories.rwd %}
+{% for post in site.categories.rwd %}- 
 	<a href='{{ site.url }}{{ post.url }}'>{{ post.title }}</a>
 {% endfor %}
 
