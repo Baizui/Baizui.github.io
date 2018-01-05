@@ -1,3 +1,4 @@
+---
 layout: archive
 title: "信息可视化笔记"
 date: 2017-12-30T11:40:45-04:00
@@ -5,8 +6,8 @@ modified:
 excerpt: "信息可视化笔记"
 tags: []
 image: 
-  feature: 
-  teaser:
+  feature: cs.jpg
+  teaser: cs.jpg
 ---
 
 
