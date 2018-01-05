@@ -1,13 +1,15 @@
 ---
 layout: archive
 title:  "中情局绝密档案"
-date: 公元2018年
+date: 
 modified:
 excerpt: ""
 tags: []
 image: (https://Baizui.github.io/images/touxiang.jpg)
 ---
 ![image](https://Baizui.github.io/images/touxiang.jpg)
+
+
 姓名：王志伟
 
 
@@ -24,3 +26,6 @@ image: (https://Baizui.github.io/images/touxiang.jpg)
 
 
 电话：妖妖玲
+
+
+日期：2018/01/05
