@@ -13,4 +13,4 @@ Web 分类（categories）
 ---
 信息可视化笔记 分类（categories）
 
-## [信息可视化笔记 分类](https://Baizui.github.io/posts/infovis/index)
+## [信息可视化笔记](https://Baizui.github.io/posts/infovis/index)
