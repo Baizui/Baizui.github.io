@@ -12,6 +12,7 @@ Web 分类（categories）
 	<a href='{{ site.url }}{{ post.url }}'>{{ post.title }}</a>
 {% endfor %}
 
+---
 信息可视化笔记 分类（categories）
 
 {% for post in site.categories.infovis %}- 
