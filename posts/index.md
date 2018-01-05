@@ -7,11 +7,13 @@ excerpt: ""
 tags: []
 ---
 Web 分类（categories）
-{% for post in site.categories.rwd %}- 
-	<a href='{{ site.url }}{{ post.url }}'>{{ post.title }}</a>
+
+{% for post in site.categories.rwd %} 
+	- <a href='{{ site.url }}{{ post.url }}'>{{ post.title }}</a>
 {% endfor %}
 
 信息可视化笔记 分类（categories）
+
 {% for post in site.categories.infovis %}
 	<a href='{{ site.url }}{{ post.url }}'>{{ post.title }}</a>
 {% endfor %}
