@@ -7,12 +7,11 @@ excerpt: ""
 tags: []
 ---
 Web 分类（categories）
+![images]（https://Baizui.github.io/images/yemianjiegou.jpg）
 
-[web](https://Baizui.github.io/posts/rwd/index)
+##[Web分类](https://Baizui.github.io/posts/rwd/index)
 
 ---
 信息可视化笔记 分类（categories）
 
-{% for post in site.categories.infovis %}- 
-	<a href='{{ site.url }}{{ post.url }}'>{{ post.title }}</a>
-{% endfor %}
+##[信息可视化笔记 分类](https://Baizui.github.io/posts/infovis/index)
