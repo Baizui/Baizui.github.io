@@ -6,9 +6,7 @@ modified:
 excerpt: ""
 tags: []
 ---
-## 期中小组作品
-
-## <strong>[信息可视化](https://690244957.github.io/%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/Tableau.html)</strong>
+## <strong>[期中小组作品](https://690244957.github.io/%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/Tableau.html)</strong>
 
 ## 失业率和离婚率的关系
 ---
