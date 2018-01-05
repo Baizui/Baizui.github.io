@@ -9,7 +9,6 @@ image:
   teaser:
 ---
 
-在此展示可持续发展目标内容介绍及思考
 
 <div class="tiles">
 {% for post in site.categories.rwd %}
