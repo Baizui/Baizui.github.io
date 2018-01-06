@@ -8,7 +8,7 @@ tags: []
 ---
 Web 分类（categories）
 
-## [Web分类](https://Baizui.github.io/posts/rwd/index)
+## [Web笔记](https://Baizui.github.io/posts/rwd/index)
 
 ---
 信息可视化笔记 分类（categories）
