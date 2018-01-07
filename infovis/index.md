@@ -13,4 +13,4 @@ tags: []
 
 ![geren.jpg](https://s1.ax1x.com/2018/01/07/pZTJzD.jpg)
 [个人可视化作品](https://public.tableau.com/profile/.6101#!/vizhome/_18257/sheet4)
-- 个人作品：寺庙(关帝庙、白马寺、孔庙、少林寺)分布的热点情况。
+  寺庙(关帝庙、白马寺、孔庙、少林寺)分布的热点情况。
