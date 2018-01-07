@@ -12,6 +12,6 @@ tags: []
 
 此处有网页作品集
 
-![cs.jpg](https://s1.ax1x.com/2018/01/06/pVYUIS.jpg)
+![ou.jpg](https://s1.ax1x.com/2018/01/07/pZR7tg.jpg)
 [期中个人网页作品](https://baizui.github.io/portfolio/网页/index)
-- 欧文
+- 期中个人网页作品，对NBA球星欧文进行了分析。

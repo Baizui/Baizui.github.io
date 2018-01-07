@@ -7,16 +7,21 @@ excerpt: ""
 tags: []
 ---
 
-![shu.jpg](https://s1.ax1x.com/2018/01/06/pV0HcF.jpg)
-[C组期中小组作品](https://690244957.github.io/%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9/Tableau.html)
+![czu.jpg](https://s1.ax1x.com/2018/01/07/pZg03R.png)
+[C组期中小组作品](https://Baizui.github.io/infovis/tab)
+
+C组对中国各省份的发达程度与粗离婚率的关系进行了分析。
+对粗离婚率的因素有人均GDP、文盲率、互联网普及率、居民人均消费水平、失业率、城镇人员平均工资。
 
 - 小组作品
 
 
 ---
 
-![瀑布.jpg](https://s1.ax1x.com/2018/01/06/pVBJNq.jpg)
+![geren.jpg](https://s1.ax1x.com/2018/01/07/pZ2EG9.jpg)
 [个人可视化作品](https://public.tableau.com/profile/.6101#!/vizhome/_18257/sheet4)
+
+寺庙(关帝庙、白马寺、孔庙、少林寺)分布的热点情况。
 
 - 个人作品，寺庙
 

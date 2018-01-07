@@ -4,8 +4,8 @@ title:  "tableau、初学者"
 date:   2017-11-30 22:07:50 +0800
 categories: infovis
 image:
-  teaser: t.jpg
-  feature: t.jpg
+  teaser: ta.jpg
+  feature: ta.jpg
 
 ---
 将数据分析变得轻而易举。轻松的拖放式界面。
