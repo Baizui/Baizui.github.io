@@ -7,7 +7,7 @@ excerpt: ""
 tags: []
 ---
 
-![czu.png](https://s1.ax1x.com/2018/01/07/pZg03R.png)
+![czu.png](https://s1.ax1x.com/2018/01/07/pZIJk6.png)
 [C组期中小组作品](https://Baizui.github.io/infovis/tab)
 
 C组对中国各省份的发达程度与粗离婚率的关系进行了分析。
@@ -18,7 +18,7 @@ C组对中国各省份的发达程度与粗离婚率的关系进行了分析。
 
 ---
 
-![geren.jpg](https://s1.ax1x.com/2018/01/07/pZ2EG9.jpg)
+![geren.jpg](https://s1.ax1x.com/2018/01/07/pZIUpD.jpg)
 [个人可视化作品](https://public.tableau.com/profile/.6101#!/vizhome/_18257/sheet4)
 
 寺庙(关帝庙、白马寺、孔庙、少林寺)分布的热点情况。
