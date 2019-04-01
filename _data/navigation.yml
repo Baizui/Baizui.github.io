@@ -10,11 +10,6 @@
   excerpt: 信息可视化
   image: xuexi.gif
 
-- title: About 联系我
-  url: /contact/
-  excerpt: "联络我"
-  image: datouxiang.jpg
-  
 - title: Web 作品
   url: /portfolio/
   excerpt: "网页个人作品"
@@ -25,3 +20,7 @@
   excerpt: "可视化与Web笔记"
   image: cs.jpg
   
+  - title: About 联系我
+  url: /contact/
+  excerpt: "联络我"
+  image: datouxiang.jpg
