@@ -18,9 +18,9 @@
 - title: 文章
   url: /posts/
   excerpt: "可视化与Web笔记"
-  image: cs.jpg
+  image: beijingtu.jpg
   
-  - title: About 联系我
+- title: About 联系我
   url: /contact/
   excerpt: "联络我"
   image: datouxiang.jpg
