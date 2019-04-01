@@ -7,7 +7,7 @@ excerpt: ""
 tags: []
 ---
 
-作品 分类（categories）
+网页设计笔记 分类（categories）
 
 ## [网页设计笔记](https://Baizui.github.io/posts/rwd/index)
 
